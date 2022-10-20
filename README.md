@@ -1,6 +1,6 @@
 # notes
 
-## [Product Management](MachineOperator/feedyourhead _Product Management.md)
+## [Product Management](https://github.com/MachineOperator/feedyourhead/blob/main/_Product%20Management.md)
 
 
 
